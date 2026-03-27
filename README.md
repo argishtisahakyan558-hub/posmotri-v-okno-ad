@@ -1,3 +1,4 @@
 Проект "Посмотри в окно"
 
-Верстка страницы с видео и карточками.
+Ссылка на репозиторий:
+https://github.com/argishtisahakyan558-hub/posmotri-v-okno-ad
